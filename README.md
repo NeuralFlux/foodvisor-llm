@@ -2,17 +2,13 @@
 A deep learning course project that evaluates and fine-tunes Google Gemma on food ingredient data, offered with retrieval-augmented generation.
 
 ## Milestones Completed 
-*Scraped and Parsed over 65,618 Wiki Articles related to Food and Ingredients using Multi-Processing on 4 CPUs, saved as pickle files.
-
-*Using the mixed-bread model to tokenize and generate embeddings.
-* Divide the articles into chunks of size ~ 300 tokens/chunk on average, resulting in 235,197 chunks in total.
-*Generate Embeddings using DDP with 2 RTX-8000s using mxbai and index these embeddings with FAISS.
-* We have a vector DB with ~ 235,190 embeddings related to food
-* Obtained 3000 unique ingredients from USDA
-*Obtained labels and reasons from ChatGPT 4.0
-*Engineered an instruction and response dataset with prompts
-*Used semantic search to provide more context to LLM
-*Fine-tuned Gemma 2B using LoRA and QLoRA (4bit NF to store and Brain Float to compute, with paged AdamW 8-bit optim)
+- [x] Scraped and Parsed over 65,618 Wiki Articles related to Food and Ingredients using Multi-Processing on 4 CPUs.
+- [x] Using the mixed-bread model to tokenize and generate embeddings.Divide the articles into chunks of size ~ 300 tokens/chunk on average, resulting in 235,197 chunks in total.
+- [x] Generate Embeddings using DDP with 2 RTX-8000s using mxbai and index these embeddings with FAISS. We have a vector DB with ~ 235,190 embeddings related to food.
+- [x] Obtained 3000 unique ingredients from USDA and their labels and reasons from ChatGPT 4.0
+- [x] Engineered an instruction and response dataset with prompts
+- [x] Used semantic search to provide more context to LLM
+- [x] Fine-tuned Gemma 2B using LoRA and QLoRA (4bit NF to store and Brain Float to compute, with paged AdamW 8-bit optim)
 
 ## Repository description and structure 
 
