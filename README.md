@@ -28,10 +28,10 @@ The file fine-tunes a causal language model using PyTorch and the Hugging Face T
 The code sets up a configurable text processing pipeline using PyTorch and Hugging Face Transformers, integrating model quantization and semantic search to evaluate model performance on a dataset with metrics like accuracy and F1 score. It allows for dynamic feature toggling and parameter adjustment through command-line arguments.
     
 * rag.py:
-The code defines a SemanticSearcher class that uses a Transformer model to generate text embeddings and perform semantic searches on a pre-embedded Wikipedia database with Faiss       for efficient retrieval. It enhances ingredient-related queries with contextual information from Wikipedia to assist in applications like safety assessments.
+The code defines a SemanticSearcher class that uses a Transformer model to generate text embeddings and perform semantic searches on a pre-embedded Wikipedia database with Faiss for efficient retrieval. It enhances ingredient-related queries with contextual information from Wikipedia to assist in applications like safety assessments.
     
 * utils.py:
-This file has an Output parser class with a constructor to define a search window in the text processing method and a method to process text and classify the text. 
+This file has an Output parser class with a constructor to define a search window in the text processing method and a method to process and classify the text. 
 
 
 ## Usage
@@ -45,9 +45,7 @@ python inference.py --rag --quantize --adapters-path="path/to/finetuned/weights"
 python finetune.py --quantize --save-dir="path/to/checkpoint" --lora-rank=32 --max-new-tokens=32
 ```
 ## Results
-With Fine-Tuning:
 ![image](https://github.com/NeuralFlux/foodvisor-llm/assets/116789851/c11e099a-27e8-49b3-96c1-3b2109707ef1)
 
-Without Fine-Tuning:
 ![image](https://github.com/NeuralFlux/foodvisor-llm/assets/116789851/52173858-4f14-4a7d-a623-5b364f9300c7)
 
