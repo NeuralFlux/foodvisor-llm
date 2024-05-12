@@ -1,0 +1,99 @@
+/ext3/miniconda3/envs/rag-pipeline/lib/python3.12/site-packages/huggingface_hub/file_download.py:1132: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+Dataset({
+    features: ['_id', 'title', 'site', 'text', 'tokens', 'tokens_len', 'embeddings'],
+    num_rows: 235197
+})
+  0%|          | 0/236 [00:00<?, ?it/s]  3%|▎         | 6/236 [00:00<00:04, 57.15it/s]  6%|▋         | 15/236 [00:00<00:02, 74.23it/s] 10%|▉         | 23/236 [00:00<00:02, 73.96it/s] 14%|█▍        | 33/236 [00:00<00:03, 67.02it/s] 17%|█▋        | 40/236 [00:00<00:03, 65.17it/s] 22%|██▏       | 52/236 [00:00<00:02, 79.43it/s] 27%|██▋       | 64/236 [00:00<00:01, 90.48it/s] 31%|███▏      | 74/236 [00:01<00:02, 59.07it/s] 36%|███▋      | 86/236 [00:01<00:02, 70.67it/s] 42%|████▏     | 98/236 [00:01<00:01, 81.33it/s] 46%|████▌     | 108/236 [00:01<00:01, 76.55it/s] 51%|█████     | 120/236 [00:01<00:01, 85.31it/s] 55%|█████▌    | 130/236 [00:01<00:02, 50.39it/s] 58%|█████▊    | 138/236 [00:02<00:01, 52.96it/s] 63%|██████▎   | 149/236 [00:02<00:01, 62.96it/s] 68%|██████▊   | 161/236 [00:02<00:01, 73.72it/s] 72%|███████▏  | 170/236 [00:02<00:00, 76.06it/s] 76%|███████▌  | 179/236 [00:02<00:00, 74.98it/s] 81%|████████  | 191/236 [00:02<00:00, 84.35it/s] 86%|████████▌ | 202/236 [00:02<00:00, 90.92it/s] 90%|████████▉ | 212/236 [00:02<00:00, 84.63it/s] 95%|█████████▍| 224/236 [00:03<00:00, 91.83it/s]100%|██████████| 236/236 [00:03<00:00, 75.99it/s]
+(1, 1024)
+[187.57831 194.74889 198.96114 203.22868 203.40277 203.92079 204.07939
+ 205.6647  208.81805 208.99423]
+['Seafood', 'Dwaeji gukbap', 'Fufu', 'Lūʻau (food)', 'Atlantic surf clam', 'Pea protein', 'Fish sauce', 'Fish as food', 'Shrimp', 'Spiny dogfish']
+ 
+
+Since 1960, annual global seafood consumption has more than doubled to over 20 kg per capita. Among the top consumers are Korea (78.5 kg per head), Norway (66.6 kg) and Portugal (61.5 kg).
+The UK Food Standards Agency recommends that at least two portions of seafood should be consumed each week, one of which should be oil-rich. There are over 100 different types of seafood available around the coast of the UK.
+Oil-rich fish such as mackerel or herring are rich in long chain Omega-3 oils. These oils are found in every cell of the human body, and are required for human biological functions such as brain functionality.
+Whitefish such as haddock and cod are very low in fat and calories which, combined with oily fish rich in Omega-3 such as mackerel, sardines, fresh tuna, salmon and trout, can help to protect against coronary heart disease, as well as helping to develop strong bones and teeth.
+Shellfish are particularly rich in zinc, which is essential for healthy skin and muscles as well as fertility. Casanova reputedly ate 50 oysters a day.
+
+Texture and taste
+Over 33,000 species of fish and many more marine invertebrate species have been identified. Bromophenols, which are produced by marine algae, give marine animals an odor and taste that is absent from freshwater fish and invertebrates. Also, a chemical substance called dimethylsulfoniopropionate (DMSP) that is found in red and green algae is transferred into animals in the marine food chain.
+---------------------------------------------
+ The dish may help health conditions due to its high nutrient content in things like calcium and protein.
+
+
+== References ==
+---------------------------------------------
+ A dish called funche made with taro, green and yellow plantains boiled and mashed with butter, garlic, and pork fat was once popular in Puerto Rico. Once mashed it was formed into balls and eaten with broth made from sesame seeds. Funche is written in early Puerto Rican cookbooks around the 1800s, but can probably be traced back to African slaves on the island. Funche today in Puerto Rico is cornmeal cooked in coconut milk and milk.
+The vegetable or fufú sauce in the Anglo-Caribbean is not fried first. Plantain is not used as much, as it is used in so many dishes. Fufu is usually part of, or added to, a soupy sauce or on the side with a soupy dish. In Antigua, fufu is served as part of the national dish but is called fungi/fungee and is made using cornmeal and okra. Similarly, in Barbados it serves as part of the national dish and is called cou-cou and uses cornmeal or, less commonly, split peas, green bananas, or breadfruit instead, like several other English Caribbean islands.
+
+Nutrition
+Nutritionally, 100 g dry weight fufu contains 2 g of protein, 0.1 g of fat and 84 g of carbohydrates. There are 267 kcal of food energy in a 100 g serving made up with water. It is low in cholesterol and rich in potassium, and it is commonly prescribed by doctors for people who have a low level of potassium in their blood.
+---------------------------------------------
+ "fatty")—rich foods that often contain a good amount of thicker coconut cream (not to be confused with sweetened "cream of coconut"). Beef, or povi ( lit. "bovine"), is the protein of choice in the form of brined povi masima (lit. "salted beef") or canned pīsupo (lit. "pea soup," general term for canned foods). Palusami is prepared by laying out a few taro leaves and spooning an amount of beef and onions into the center with a healthy amount of coconut cream and bundled with foil then steamed.
+
+Tonga
+Lū talo are typically prepared in parcels, in Tonga. Two popular versions are lū pulu (lit. "bull") refers to beef, and lū sipi (lit. "sheep") refers to mutton or lamb. Fresh meat can be used, corned (wet brine) masima or canned meats kapa are typical. Horse meat, hoosi, is also a delicacy. Coconut cream is often mixed into the meat, especially with canned meats, to form a paste that easily dollops. Chopped onions are common additions, sometimes tomatoes. Lū moa (chicken) and lū ika (fish) are made as well. The parcels are traditionally wrapped with banana leaves but it is more common to use foil. Kapisi pulu is a similar variant using kapisi (lit.
+---------------------------------------------
+
+About two-thirds of a surf clam's shucked weight is viable for human consumption. The meat of the clam is used as 'strips', chowder, and sushi.
+The "tongue" or foot of the clam is commercially valuable because it is cut into long strips which are breaded and fried and served as clam strips, first popularized by the Howard Johnson's franchise.
+The meat that is left over is separated from the "belly" and is referred to as "salvage" within the clam industry. This meat includes the adductor muscles, which are the strong muscles that close the two halves of the shell and which tightly hold the clam's shell in the shut position. "Salvage" is typically ground up for use in chowders, sauces, and dips, and is commercially available either in cans or frozen. Locally it is available fresh. The substantial "belly" of the clam is used by some fishermen as bait for striped bass and other species.
+
+
+== References ==
+---------------------------------------------
+
+
+See also
+Pea milk
+Soy protein
+Bodybuilding supplement
+Whey protein
+
+
+== References ==
+---------------------------------------------
+ Ikanago shoyu of Kagawa Prefecture is made from sand lance. They are used in nabemono, in salad dressings, and as a flavoring ingredient in ramen soups.
+
+Korea
+In Korea, fish sauce is called eojang (어장).
+Across the Korean Peninsula, aekjeot (액젓, literally "liquid jeotgal"), a type of fish sauce usually made from fermented anchovies or sand lances, is used as a crucial ingredient in many types of kimchi, both for taste and fermentation.
+In Jeju island, eoganjang (어간장), made of fermented godori (young chub mackerel) or horse mackerel, is used in place of soy sauce.
+
+Europe
+Italy
+Colatura di alici is an Italian fish sauce originating in the village of Cetara, Campania.
+
+England
+Worcestershire sauce contains fermented anchovies among other ingredients, which is common in the Anglosphere countries.
+
+Nutrition contents
+Common commercial brands of fish sauce generally contain about 50% to 60% of the FDA's daily recommended amount of sodium per tablespoon serving. Most commercial brands of reasonable quality contain one or two grams of protein per serving; however, higher-quality brands may have four grams of protein or more, while lower-quality brands may have less than one gram of protein per serving. Fish sauce has an insignificant amount of carbohydrates and fats.
+---------------------------------------------
+
+The British historian William Radcliffe wrote in Fishing from the Earliest Times:
+
+"The Emperor Domitian (Juvenal, IV.) ordered a special sitting of the Senate to deliberate and advise on a matter of such grave State importance as the best method of cooking a turbot."
+
+Nutritional value
+Globally, fish and fish products provide an average of only about 34 calories per capita per day. However, more than as an energy source, the dietary contribution of fish is significant in terms of high-quality, easily digested animal proteins and especially in fighting micronutrient deficiencies. A portion of 150g of fish provides about 50 to 60 percent of an adult's daily protein requirement. Fish proteins are essential in the diet of some densely populated countries where the total protein intake is low, and are particularly important in diets in small island developing States (SIDS).
+Intermediate Technology Publications wrote in 1992 that "Fish provides a good source of high quality protein and contains many vitamins and minerals. It may be classed as either whitefish, oily fish, or shellfish. Whitefish, such as haddock and seer, contain very little fat (usually less than 1%) whereas oily fish, such as sardines, contain between 10–25%. The latter, as a result of its high fat content, contain a range of fat-soluble vitamins (A, D, E and K) and essential fatty acids, all of which are vital for the healthy functioning of the body.
+---------------------------------------------
+ Usually shrimp is sold whole, though sometimes only the meat of shrimp is marketed.
+As with other seafood, shrimp is high in calcium, iodine and protein but low in food energy. A shrimp-based meal is also a significant source of cholesterol, from 122 mg to 251 mg per 100 g of shrimp, depending on the method of preparation. Shrimp consumption, however, is considered healthy for the circulatory system because the lack of significant levels of saturated fat in shrimp means that the high cholesterol content in shrimp improves the ratio of LDL to HDL cholesterol and lowers triglycerides.
+Ebiko - shrimp roe, sometimes translated as "shrimp flakes" - is used as one of the ingredients in the preparation of sushi.
+Shrimp and other shellfish are among the most common food allergens. They are not kosher and thus are forbidden in Jewish cuisine.
+
+Aquaria
+Several types of shrimp are kept in home aquaria. Some are purely ornamental, while others are useful in controlling algae and removing debris. Freshwater shrimp commonly available for aquaria include the Bamboo shrimp, Japanese marsh shrimp (Caridina multidentata, also called "Amano shrimp," as their use in aquaria was pioneered by Takashi Amano), cherry shrimp (Neocaridina heteropoda), and ghost or glass shrimp (Palaemonetes spp.). Popular saltwater shrimp include the cleaner shrimp Lysmata amboinensis, the fire shrimp (Lysmata debelius) and the harlequin shrimp (Hymenocera picta).
+---------------------------------------------
+
+Life span estimates based on analysis of vertebral centra and annuli in the dorsal spines range from 35 to 54 years.
+
+Commercial use
+Spiny dogfish are sold as food in Europe, the United States, Canada, New Zealand, Venezuela and Chile. The meat is primarily eaten in England, France, Italy, the Benelux countries, Germany, and as an unwitting houndshark in Greece. The fins and tails are processed into fin needles for cheaper versions of shark fin soup in Chinese cuisine. In England, dogfish are bought in fish and chip shops as "huss", and previously as "rock salmon" until the term was outlawed. Commercial harvests were banned in the UK from 2010 until 2023. In France, they are sold as "small salmon" (saumonette) and in Belgium and Germany as "sea eel" (zeepaling and Seeaal, respectively). In Greece, all small dogfish are commercially called galéos, after the critically endangered Galeorhinus galeus that produces a seasonal dish; other small sharks such as the spiny dogfish substitute it. 
+Spiny dogfish bodies are ground into fertilizer, liver oil and pet food. Because of their availability, cartilaginous skulls and small sizes, they are popular vertebrate dissection specimens in high schools and universities.
+Reported catches varied between 31,700 tonnes in 2000 and 13,800 tonnes in 2008. Bottom trawlers and sink gillnets are the primary tools.
+---------------------------------------------
