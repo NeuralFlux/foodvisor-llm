@@ -47,5 +47,8 @@ python finetune.py --quantize --save-dir="path/to/checkpoint" --lora-rank=32 --m
 ## Results
 ![image](https://github.com/NeuralFlux/foodvisor-llm/assets/116789851/c11e099a-27e8-49b3-96c1-3b2109707ef1)
 
-![image](https://github.com/NeuralFlux/foodvisor-llm/assets/116789851/52173858-4f14-4a7d-a623-5b364f9300c7)
+![image](https://github.com/NeuralFlux/foodvisor-llm/assets/116789851/132721e1-febd-4de8-9f54-de13e4ff53ab)
+
+
+
 
