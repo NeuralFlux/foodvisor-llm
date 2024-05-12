@@ -1,5 +1,6 @@
 # foodvisor-llm
 A deep learning course project that evaluates and fine-tunes Google Gemma on food ingredient data, offered with retrieval-augmented generation.
+Published 🤗 datasets [Labeled Ingredients](https://huggingface.co/datasets/foodvisor-nyu/labeled-food-ingredients) and [Wikipedia Article Embeddings](https://huggingface.co/datasets/foodvisor-nyu/mxbai-wikipedia-ingredients-embed).
 
 ## Milestones Completed 
 - [x] Scraped and Parsed over 65,618 Wiki Articles related to Food and Ingredients using Multi-Processing on 4 CPUs.
