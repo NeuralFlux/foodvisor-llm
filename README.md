@@ -31,6 +31,10 @@ This file has an Output parser class with a constructor to define a search windo
 
 
 ## Usage
+Tested on Python 3.12
+```bash
+pip install -r requirements.txt
+```
 ```bash
 python demo.py --rag --quantize --adapters-path="path/to/finetuned/weights" --batch-size=32 --max-new-tokens=32
 ```
