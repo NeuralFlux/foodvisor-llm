@@ -51,7 +51,7 @@ python finetune.py --quantize --save-dir="path/to/checkpoint" --lora-rank=32 --m
 ![image](https://github.com/NeuralFlux/foodvisor-llm/assets/116789851/132721e1-febd-4de8-9f54-de13e4ff53ab)
 
 ## RAG
-- [x]2 Tesla V100 along with NVIDIA-SMI,driver and CUDA versions. Next, the figure shows that dump size that is the total number of Wikipedia articles stored using Pickle is 65616 and 1000 of these have been loaded
+- [x] 2 Tesla V100 along with NVIDIA-SMI,driver and CUDA versions. Next, the figure shows that dump size that is the total number of Wikipedia articles stored using Pickle is 65616 and 1000 of these have been loaded
 
 ![GPU_config](https://github.com/NeuralFlux/foodvisor-llm/assets/116789851/7e963ec9-3940-435a-9e97-1c9bff487a87)
 ![RAG_Loading](https://github.com/NeuralFlux/foodvisor-llm/assets/116789851/ceac9ef0-407b-4102-8f06-1f7218a38216)
