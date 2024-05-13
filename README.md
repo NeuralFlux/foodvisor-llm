@@ -72,7 +72,11 @@ An interesting phenomenon can be noticed in image with different title numbers b
 ![Title0_RAG](https://github.com/NeuralFlux/foodvisor-llm/assets/116789851/81e62d9b-9f1b-4a26-a0d1-e1c6a7928783)
 ![Title_same_RAG](https://github.com/NeuralFlux/foodvisor-llm/assets/116789851/23d65fef-b8c6-41d4-868a-07ef9a422711)
 
+- [x] Using DDP with 2 RTX8000s, the time taken by each GPU is processing 1986 chunks is 1 minute 5 seconds. When we use RAG without DDP, time taken for 235197 embeddings is 1 hour 50 minutes 57 seconds.
 
+The image shows time taken by each CPU to scrape and parse over 65,618 Wikipedia articles overall using multi-Processing. 
+
+![image](https://github.com/NeuralFlux/foodvisor-llm/assets/116789851/378cb761-62c3-4d69-965a-7667ae6deff2)
 
 
 
