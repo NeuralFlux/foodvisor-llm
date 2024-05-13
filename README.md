@@ -66,6 +66,8 @@ python finetune.py --quantize --save-dir="path/to/checkpoint" --lora-rank=32 --m
 - [x] For illustration, the query we have used is "QUERY :  cholesterol with fast food consumptions".As shown in the image with QAISS values, each chuck is given a FAISS score, and the minimum one is the closest one to actual information.
 The chuck from article with title "Monosodium glutamate" resembles the required query response since it has the minimum FAISS score.The image below with Title 0 shows the best chunk.
 An interesting phenomenon can be noticed in image with different title numbers but all these different chunks are from the same Wikipedia article, "Phytosterol". This happens because we are restricting the token size to around 300 per chunk. Multiple chunks are needed to cover the information in the article "Phytosterol". It is important to note all relevant information pertaining to the query is stored in the chunks.
+
+
 ![Query_FAISS](https://github.com/NeuralFlux/foodvisor-llm/assets/116789851/d9fbd8d6-c7b9-4ead-831e-92b2174c58d0)
 ![Title0_RAG](https://github.com/NeuralFlux/foodvisor-llm/assets/116789851/81e62d9b-9f1b-4a26-a0d1-e1c6a7928783)
 ![Title_same_RAG](https://github.com/NeuralFlux/foodvisor-llm/assets/116789851/23d65fef-b8c6-41d4-868a-07ef9a422711)
